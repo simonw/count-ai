@@ -12,4 +12,8 @@ python -m venv venv
 venv/bin/pip install -r requirements.txt
 venv/bin/python counter.py
 ```
+Here's [the ChatGPT transcript](https://chatgpt.com/share/58f2352d-1f17-495b-94f1-4eb44cd574b9) I used to help build the tool.
 
+And a screenshot showing what the counter looks like:
+
+![macOS screenshot - a white rectangle in the top right shows the number four](https://github.com/simonw/count-ai/assets/9599/5955465e-2011-4572-8865-85284b7409e7)
