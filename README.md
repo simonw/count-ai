@@ -1,5 +1,7 @@
 # AI counter app from my talk at PyCon US 2024
 
+I built this project for my [Imitation Intelligence](https://simonwillison.net/2024/Jul/14/pycon/) talk.
+
 This little macOS app listens through the microphone and increments a visible counter any time anyone says "AI" or "Artificial Intelligence".
 
 You need to download and extract the model file from here: https://alphacephei.com/vosk/models
